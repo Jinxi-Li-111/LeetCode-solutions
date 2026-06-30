@@ -13,7 +13,7 @@ Since we are finding the longest common prefix in the list, if any word in the l
 
 
 ## Time Complexity
-$O(n)$
+$O(nm)$
 
 ## Space Complexity
-$O(1)$
+$O(n)$
